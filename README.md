@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noumanishtiaq53
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on Front End Projects
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Flash 
 
